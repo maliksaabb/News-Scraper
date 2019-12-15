@@ -18,6 +18,6 @@ News-Scraper is a web app that lets users view and save  news scraped from the n
 
 ## For Developers
 Clone the game locally:
-    $ git clone https://github.com/mosbyts/News-Scraper.git
+   https://github.com/maliksaabb/News-Scraper
 
 
